@@ -8,18 +8,19 @@
 * Easy-to-use interfaces for quick calculation.
 
 
-  # Calculator App
+# Calculator App
    Calculator app serves as a convenient tool for performing simple arithmetic calculation
 
-  ## Features:
-  * Basic Arithmetic Operations:-
-     (Addition, subtraction, Multiplication, Devision)
+## Features:
+* Basic Arithmetic Operations:-
+  (Addition, subtraction, Multiplication, Devision)
 
-    ## TODO list
-    TODO list project is a simple yet powerful tasks application that helps users keep track of their
+
+ ## TODO list
+   TODO list project is a simple yet powerful tasks application that helps users keep track of their
     daily Tasks, goals, and deadlines.
 
-    ## Features:
-    * Increase productivity
-    * Better Time Management 
+  ## Features:
+  * Increase productivity
+  * Better Time Management 
   
