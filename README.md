@@ -1,6 +1,6 @@
 # BMI Calculator
- Welcome to our BMI(Body Mass Index)calculator project!
- This simpletools helps you estimate your BMI based on your height and weight inputs.
+ Welcome to our BMI(Body Mass Index)calculator project!. 
+  This simpletools helps you estimate your BMI based on your height and weight inputs.
 
 ## Features:
 * Calculator BMI instantly by entering your height and weight.
